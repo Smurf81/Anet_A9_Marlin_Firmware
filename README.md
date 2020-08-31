@@ -1,3 +1,10 @@
+# To Download Marlin 2.X for Anet A9 please use the branch "technoo10201-anet-a9-firmware"
+
+- Do not forget to flash (rewrite) the bootloader by melzi_optiboot bootloader
+- A useful link to flash bootloader via Arduino uno : https://www.youtube.com/watch?v=RQIizXtf9oo (Thanks to Crosslink youtube channel)
+
+Enjoy !
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
